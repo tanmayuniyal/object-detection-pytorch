@@ -1,0 +1,7 @@
+jupyter
+torch
+torchvision
+numpy
+matplotlib
+Pillow
+ElementTree XML API
