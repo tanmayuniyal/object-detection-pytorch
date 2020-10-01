@@ -1,2 +1,2 @@
 # object-detection-pytorch
-Deep learning project for kangaroo detection using pytorch
+Deep learning project for object detection in custom dataset using pytorch
