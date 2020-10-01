@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>4ef9408e34f859f1.jpg</filename>
+  <path>kangaroo_python/kangaroo/images/4ef9408e34f859f1.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1022</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>kangaroo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112</xmin>
+      <xmax>963</xmax>
+      <ymin>34</ymin>
+      <ymax>1010</ymax>
+    </bndbox>
+  </object>
+</annotation>
